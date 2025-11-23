@@ -1,8 +1,4 @@
-Aquí tienes el `README.md` completo, detallado y profesional, actualizado específicamente para reflejar el uso de **Java 24**.
 
-Copia y pega el siguiente bloque de código en un archivo llamado `README.md` en la raíz de tu proyecto:
-
------
 
 ````markdown
 # 🚀 Framework de Automatización de Pruebas E2E (Selenium + Java 24)
