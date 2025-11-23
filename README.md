@@ -152,12 +152,11 @@ Ubicación del reporte local:
 
 ### 👤 Autor
 
-**[Tu Nombre]** - QA Automation Engineer
+**[Ronal]** - QA Automation Engineer
 
-  * 💼 [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/tu-perfil)
-  * 📂 [Portfolio Web](https://www.google.com/search?q=https://tu-portfolio.com)
+  * 💼 [LinkedIn]()
+  * 📂 [Portfolio Web]()
 
-*Desarrollado como parte de un portfolio profesional de automatización mostrando capacidades avanzadas en Java 24 y Selenium Grid.*
 
 ```
 ```
