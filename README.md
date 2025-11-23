@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🚀 Framework de Automatización de Pruebas E2E (Selenium + Java 24)
 
 ![Java](https://img.shields.io/badge/Java-24-orange?style=for-the-badge&logo=java)
