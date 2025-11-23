@@ -36,7 +36,7 @@ El framework ha sido diseñado para resolver el problema común de la "Condició
 
 ### Diagrama de Flujo de Ejecución
 
-```mermaid
+```
 graph TD
     CI[GitHub Actions / User] -->|Trigger| Gradle[Gradle Test Task]
     Gradle -->|Invoca| TestNG[TestNG Suite XML]
