@@ -60,7 +60,7 @@ graph TD
     
     TL_A --> CloudA[Nube BrowserStack - Sesión 1]
     TL_B --> CloudB[Nube BrowserStack - Sesión 2]
-````
+```
 
 ### Características Clave
 
